@@ -7,7 +7,7 @@
 #    
 <br />
 <p>
-  <img align="right" width="50%" src="programmer.gif" alt="DreamGlimmer" />
+  <img align="right" width="50%" src="fullstack.gif" alt="DreamGlimmer" />
 </p>
 
 <p>
