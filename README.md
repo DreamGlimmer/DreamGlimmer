@@ -25,9 +25,13 @@ I'm excited to bring my expertise to new challenges and collaborations. I'm well
 
 #
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=luckyshark1012&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=DreamGlimmer&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 #
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamGlimmer&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
+</p>
+
 
 
