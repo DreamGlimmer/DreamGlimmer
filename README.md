@@ -25,7 +25,7 @@ I'm excited to bring my expertise to new challenges and collaborations. I'm well
 
 #
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=DreamGlimmer&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=DreamGlimmer&theme=lightmode&data=followers,repositories,stars,commits' />
 </p>
 
 #
